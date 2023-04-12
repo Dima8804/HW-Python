@@ -7,7 +7,7 @@
 
 
 
-a = input('put nymber')
+a = input('put number')
 a = int(a)
 print(a)
 
